@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs><linearGradient id="a" x1="10" y1="8" x2="55" y2="60" gradientUnits="userSpaceOnUse"><stop stop-color="#A2DEFF"/><stop offset="1" stop-color="#878DFF"/></linearGradient></defs>
+  <circle cx="32" cy="32" r="26" stroke="url(#a)" stroke-opacity=".7" stroke-width="1.4"/>
+  <ellipse cx="32" cy="32" rx="28" ry="11" transform="rotate(-32 32 32)" stroke="url(#a)" stroke-opacity=".52" stroke-width="1.6"/>
+  <circle cx="32" cy="32" r="7" fill="url(#a)"/><circle cx="48" cy="12" r="3" fill="#A2DEFF"/><circle cx="10" cy="39" r="2.5" fill="#A6B6FF"/><circle cx="50" cy="49" r="2" fill="#C3D5FF"/>
+</svg>

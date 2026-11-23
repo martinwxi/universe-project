@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://martinwxi.github.io/universe-project/sitemap.xml
